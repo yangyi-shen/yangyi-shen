@@ -9,10 +9,10 @@ My name is Yang, and I'm a 15 year old aspiring web developer.
 
 ## About Me
 
--I speak English, Chinese, and Portuguese.
--I like drawing, piano, and most of all programming.
--Say hi to me in Discord (Yang Yi#6564)!
--Check me out at Replit @Yang_Yi_Shen
+- I speak English, Chinese, and Portuguese.
+- I like drawing, piano, and most of all programming.
+- Say hi to me in Discord (Yang Yi#6564)!
+- Check me out at Replit @Yang_Yi_Shen
 
 ## Programming languages
 
