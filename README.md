@@ -13,7 +13,6 @@ My name is Yang, and I'm a 15 year old aspiring web developer.
 - I like drawing, piano, Taekwondo and most of all programming.
 - Say hi to me in Discord (Yang Yi#6564)!
 - Check me out at Replit @Yang_Yi_Shen
-- Feel free to contact me for any reason
 
 ## Programming languages
 
