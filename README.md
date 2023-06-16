@@ -35,4 +35,7 @@ My name is Yang, and I'm a 15 year old aspiring web developer.
   <a href="https://reactjs.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="30" height="30">
   </a>
+  <a href="https://vuejs.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="30" height="30">
+  </a>
 </p>
