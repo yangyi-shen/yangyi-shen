@@ -10,9 +10,9 @@ My name is Yang, and I'm a 16 year old aspiring web developer.
 ## About Me
 
 - I speak English, Chinese, and Portuguese.
-- I like drawing, piano, Taekwondo and most of all programming.
-- Say hi to me in Discord (Yang Yi#6564), or send me an email!
-- Check me out at Replit @Yang_Yi_Shen
+- I like drawing, piano, Taekwondo, BJJ and most of all programming.
+- I mainly do frontend development in Vue
+- Feek free to say hi to me with an email!
 
 ## Skills
 
