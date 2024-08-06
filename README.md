@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there!👋 
 
-My name is Yang, and I'm a 16 year old aspiring web developer. 
+My name is Yang, and I'm a 16 year old aspiring software developer.
 
 ## About Me
 
