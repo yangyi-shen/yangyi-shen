@@ -11,7 +11,7 @@ My name is Yang, and I'm a 16 year old aspiring software developer.
 
 - I speak English, Chinese, and Portuguese.
 - I like drawing, piano, Taekwondo, BJJ and most of all programming.
-- I mainly do frontend development in Vue
+- I currently specialize in frontend development with React or Vue.
 - Feel free to say hi to me with an email!
 
 ## Skills
