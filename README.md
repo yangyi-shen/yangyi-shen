@@ -40,4 +40,4 @@ My name is Yang, and I'm a 16 year old aspiring software developer.
   </a>
 </p>
 
-> Side note: My commit chart has been a little sparse lately, as I have been working on a project hosted on Bitbucket.
+> Side note: My commit chart has been a little sparse lately, as I have been working on a team project on Gitlab
