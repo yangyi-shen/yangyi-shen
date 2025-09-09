@@ -9,9 +9,9 @@ My name is Yang, and I'm a 17 year old aspiring software developer.
 
 ## About Me
 
-- I speak English, Chinese, Vietnamese and Portuguese.
+- I speak English, Chinese, Vietnamese and Portuguese, and am currently learning Japanese
 - I like drawing, piano, Taekwondo, BJJ and most of all programming.
-- I currently specialize in frontend development with React.
+- My specialties are frontend development with React, backend development with Java, and fullstack development in general.
 - Feel free to say hi to me with an email!
 
 ## Skills
