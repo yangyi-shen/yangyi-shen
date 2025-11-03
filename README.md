@@ -3,41 +3,25 @@ Yang-Yi-Shen/Yang-Yi-Shen is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there!👋 
+# About 
+Hello there! I'm Yang, a web developer based in the lovely city of Kaohsiung, Taiwan. I'm currently working on improving my skills and gaining professional experience to prepare myself for college, and my career afterwards.
 
-My name is Yang, and I'm a 17 year old aspiring software developer.
+# Skills
+- Frontend: React.js, Vue.js, MUI, TailwindCSS
+- Backend: Node.js, Java Spring Boot, SQL (primarily H2, PostgreSQL), Firebase, Supabase
+- Web 3.0: Wagmi, Web3.js
+- Miscellaneous: Figma, Git, Bitbucket, Jira
 
-## About Me
+# Personal details
+My hobbies are:
+- Drawing (I'm still learning so I haven't drawn anything but lines, squares, circles and cubes—it's surprisingly fun, though!)
+- Martial arts (Taekwondo & BJJ)
+- Reading (history & funny British books)
+- And of course, programming
 
-- I speak English, Chinese, Vietnamese and Portuguese, and am currently learning Japanese
-- I like drawing, piano, Taekwondo, BJJ and most of all programming.
-- My specialties are frontend development with React, backend development with Java, and fullstack development in general.
-- Feel free to say hi to me with an email!
+My favorite books are:
+- Triumph Forsaken: The Vietnam War, 1954-1965
+- All of P.G. Wodehouse's works
+- Israel: A History
 
-## Skills
-
-<p>
-  <a href="https://mdn.io">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30">
- </a>
-  <a href="https://python.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30">
-  </a>
-  <a href="https://nodejs.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="30" height="30">
-  </a>
-  <a href="https://reactjs.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="30" height="30">
-  </a>
-  <a href="https://vuejs.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="30" height="30">
-  </a>
-</p>
-
-> Side note: My commit chart has been a little sparse lately, as I have been mostly working in Bitbucket
+> Side note: My commit chart has been a little sparse lately, as I have been working on some projects in Bitbucket.
