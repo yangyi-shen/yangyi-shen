@@ -24,4 +24,4 @@ My favorite books are:
 - All of P.G. Wodehouse's works
 - Israel: A History
 
-> Side note: My commit chart has been a little sparse lately, as I have been working on some projects in Bitbucket.
+> Side note 🗒️: My commit chart has been a little sparse lately, as I have been working on some projects in Bitbucket.
