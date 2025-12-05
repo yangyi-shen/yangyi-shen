@@ -10,7 +10,7 @@ Hello there! I'm Yang, a web developer based in the lovely city of Kaohsiung, Ta
 - Frontend: React.js, Vue.js, MUI, TailwindCSS
 - Backend: Node.js, Java Spring Boot, SQL (primarily H2, PostgreSQL), Firebase, Supabase
 - Web 3.0: Wagmi, Web3.js
-- Miscellaneous: Figma, Git, Bitbucket, Jira
+- Miscellaneous: Figma, Git, Bitbucket, Jira, Python, MQL5
 
 # Personal details 💾
 My hobbies are:
