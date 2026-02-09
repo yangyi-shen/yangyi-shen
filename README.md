@@ -19,9 +19,4 @@ My hobbies are:
 - Reading (history & funny British books)
 - And of course, programming
 
-My favorite books are:
-- Triumph Forsaken: The Vietnam War, 1954-1965
-- All of P.G. Wodehouse's works
-- Israel: A History
-
 > Side note 🗒️: My commit chart has been a little sparse lately, as I have been working on some projects in Bitbucket.
