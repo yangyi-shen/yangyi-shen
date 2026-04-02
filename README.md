@@ -12,11 +12,4 @@ Hello there! I'm Yang, a web developer based in the lovely city of Kaohsiung, Ta
 - Web 3.0: Wagmi, Web3.js
 - Miscellaneous: Figma, Git, Bitbucket, Jira, Python, MQL5
 
-# Personal details 💾
-My hobbies are:
-- Drawing (I'm still learning so I haven't drawn anything but lines, squares, circles and cubes—it's surprisingly fun, though!)
-- Martial arts (Taekwondo & BJJ)
-- Reading (history & funny British books)
-- And of course, programming
-
 > Side note 🗒️: My commit chart has been a little sparse lately, as I have been working on some projects in Bitbucket.
