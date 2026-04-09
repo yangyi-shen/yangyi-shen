@@ -7,9 +7,17 @@ You can click the Preview link to take a look at your changes.
 Hello there! I'm Yang, a web developer based in the lovely city of Kaohsiung, Taiwan. I'm currently working on improving my skills and gaining professional experience to prepare myself for college, and my career afterwards.
 
 # Skills 🛠️
-- Frontend: React.js, Vue.js, MUI, TailwindCSS
-- Backend: Node.js, Java Spring Boot, SQL (primarily H2, PostgreSQL), Firebase, Supabase
-- Web 3.0: Wagmi, Web3.js
-- Miscellaneous: Figma, Git, Bitbucket, Jira, Python, MQL5
 
-> Side note 🗒️: My commit chart has been a little sparse lately, as I have been working on some projects in Bitbucket.
+### Software
+I mainly specialize in fullstack web development. However, I have partial proficiency in a wide array of other skills as well.
+- **Frontend:** React.js, React Native, Vue.js, MUI, TailwindCSS
+- **Backend:** Node.js, Java Spring Boot, SQL (primarily H2, PostgreSQL), Firebase, Supabase
+- **Miscellaneous:** Figma, Git, Bitbucket, Jira, Python, MQL5, Wagmi, Web3.js
+
+### Languages
+Languages are ranked according to the Common European Faremwork of Reference for language skills.
+- 🇺🇸 English: C2/C1
+- 🇹🇼 Chinese: B2/B1
+- 🇻🇳 Vietnamese: B1
+- 🇧🇷 Portuguese: A2/B1
+- 🇯🇵 Japanese: A1/A2
