@@ -2,7 +2,7 @@
 Yang-Yi-Shen/Yang-Yi-Shen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[English](README) | 中文
+[English](README.md) | 中文
 # 自我介紹 👋
 您好!我是沈洋逸，一個正在高雄，台灣工作的網頁工程師。我現在的主要目標是進強化我的軟體開發能力與累積專業實務的工作經驗，並為了大學與我的未來職涯作準備。
 
