@@ -2,6 +2,7 @@
 Yang-Yi-Shen/Yang-Yi-Shen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+English |　[中文](README_ZH.md)
 
 # About 👋
 Hello there! I'm Yang, a web developer based in the lovely city of Kaohsiung, Taiwan. I'm currently working on improving my skills and gaining professional experience to prepare myself for college, and my career afterwards.
