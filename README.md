@@ -16,7 +16,7 @@ I mainly specialize in fullstack web development. However, I have partial profic
 - **Miscellaneous:** Figma, Git, Bitbucket, Jira, Python, MQL5, Wagmi, Web3.js
 
 ### Languages
-Languages are ranked according to the Common European Framework of Reference for language skills.
+Languages are ranked according to the CEFR framework for language skills.
 - 🇺🇸 English: C2/C1
 - 🇹🇼 Chinese: B2/B1
 - 🇻🇳 Vietnamese: B2/B1
