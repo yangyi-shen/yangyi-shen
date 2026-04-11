@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - **雜餘：** Figma, Git, Bitbucket, Jira, Python, MQL5, Wagmi, Web3.js
 
 ### 語言方
-以下列的語言於歐洲語言共同參考架構當評價標準。
+以下列的語言於CEFR語言共同參考架構當評價標準。
 - 🇺🇸 英文： C2/C1
 - 🇹🇼 中文： B2/B1
 - 🇻🇳 越文： B2/B1
