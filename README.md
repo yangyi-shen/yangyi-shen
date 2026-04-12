@@ -21,4 +21,4 @@ Languages are ranked according to the CEFR framework for language skills.
 - 🇹🇼 Chinese: B2/B1
 - 🇻🇳 Vietnamese: B2/B1
 - 🇧🇷 Portuguese: A2/B1
-- 🇯🇵 Japanese: A1/A2
+- 🇯🇵 Japanese: A1 (Just started learning!)
