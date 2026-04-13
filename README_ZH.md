@@ -4,12 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 [English](README.md) | 中文
 # 自我介紹 👋
-您好!我是沈洋逸，一個正在高雄，台灣工作的網頁工程師。我現在的主要目標是進強化我的軟體開發能力與累積專業實務的工作經驗，並為了大學與我的未來職涯作準備。
+大家好!我是沈洋逸，一位正在高雄，台灣定居的全端網頁工程師。我現在的主要目標是強化自己的軟體開發技術與累積實務的工作經驗，並為了大學與我的未來職涯作準備。
 
 # 知識技能 🛠️
 
 ### 軟體方
-雖然我的專業知識主要集中在全段網頁開發，我也別的領域內有限量的能力。
+雖然自己的知識跟經驗主要集中在全段網頁開發，我也在別的領域有適當的熟悉度。
 - **前端：** React.js, React Native, Vue.js, MUI, TailwindCSS
 - **後段：** Node.js, Java Spring Boot, SQL (primarily H2, PostgreSQL), Firebase, Supabase
 - **雜餘：** Figma, Git, Bitbucket, Jira, Python, MQL5, Wagmi, Web3.js
