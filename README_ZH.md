@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ### 軟體方
 雖然自己的知識跟經驗主要集中在全段網頁開發，我也在別的領域有適當的熟悉度。
 - **前端：** React.js, React Native, Vue.js, MUI, TailwindCSS
-- **後段：** Node.js, Java Spring Boot, SQL (primarily H2, PostgreSQL), Firebase, Supabase
+- **後段：** Node.js, Java 配 Spring Boot, SQL (primarily H2, PostgreSQL), C#, Firebase, Supabase
 - **雜餘：** Figma, Git, Bitbucket, Jira, Python, MQL5, Wagmi, Web3.js
 
 ### 語言方
