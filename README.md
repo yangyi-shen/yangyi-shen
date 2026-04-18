@@ -19,6 +19,6 @@ I mainly specialize in fullstack development. However, I have partial proficienc
 Languages are ranked according to the CEFR framework for language skills.
 - 🇺🇸 English: C2/C1
 - 🇹🇼 Chinese: B2/B1
-- 🇻🇳 Vietnamese: B2/B1
-- 🇧🇷 Portuguese: A2/B1
+- 🇻🇳 Vietnamese: B1
+- 🇧🇷 Portuguese: A2
 - 🇯🇵 Japanese: A1 (Just started learning!)
