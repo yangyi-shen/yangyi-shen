@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 - 🇹🇼 中文： B2/B1
 - 🇻🇳 越文： B1
 - 🇧🇷 葡萄牙文： A2
-- 🇯🇵 日文： A1（剛開始學習！）
+- 🇯🇵 日文： A1（剛開始學習）
