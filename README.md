@@ -11,7 +11,7 @@ Hello there! I'm Yang, a fullstack web developer based in Kaohsiung, Taiwan.
 ### Software
 I mainly specialize in fullstack development. However, I have partial proficiency in a moderate fair number of other skills as well.
 - **Frontend:** React.js, React Native, Vue.js, MUI, TailwindCSS
-- **Backend:** Node.js, Java w/ Spring Boot, SQL (primarily H2, PostgreSQL), C#, Firebase, Supabase
+- **Backend:** Node.js, Java w/ Spring Boot, SQL (H2, PostgreSQL, MSSQL), C#, Firebase, Supabase
 - **Miscellaneous:** Figma, Git, Bitbucket, Jira, Python, MQL5, Wagmi, Web3.js
 
 ### Languages
